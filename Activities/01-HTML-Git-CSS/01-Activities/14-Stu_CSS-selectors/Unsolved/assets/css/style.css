@@ -1,9 +1,9 @@
-/* Universal selector */
+/* This is Universal selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* Element selectors  */
+/* This is Element selectors  */
 body {
   background-color: lemonchiffon;
 }
@@ -21,12 +21,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* class selector */
+/* This is class selector */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* id selector */
+/* This is id selector */
 #contact-section {
   background-color: #f0ead6;
 }
