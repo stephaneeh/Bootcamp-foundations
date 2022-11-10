@@ -1,6 +1,7 @@
-/* TODO: Add typography */
+/* Style of whole page */
 .lesson {
-    background-color: #fffacd;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;  
+  background-color: #fffacd;
 }
 
 /* Fact 1 */
@@ -8,12 +9,12 @@
   font-weight: bolder;
 }
 
-/* TODO: Fact 2 */
+/* Included font size of 24px */
 #fact-2 {
-
+  font-size: 24px;
 }
 
-/* TODO: Fact 3 */
+/* Included line height of 50px */
 #fact-3 {
-  
+  line-height: 50px;
 }
